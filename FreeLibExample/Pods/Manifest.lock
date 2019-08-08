@@ -1,0 +1,16 @@
+PODS:
+  - FreeLib (1.0.0)
+
+DEPENDENCIES:
+  - FreeLib (from `../freelib/`)
+
+EXTERNAL SOURCES:
+  FreeLib:
+    :path: "../freelib/"
+
+SPEC CHECKSUMS:
+  FreeLib: d1ddfead98ebcf3f1c52f2e02c39c09c70195ff7
+
+PODFILE CHECKSUM: 177afffabe18454876c20a2da2a379e8f66a1222
+
+COCOAPODS: 1.6.0

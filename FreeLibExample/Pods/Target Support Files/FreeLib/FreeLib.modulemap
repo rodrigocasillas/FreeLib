@@ -1,0 +1,6 @@
+framework module FreeLib {
+  umbrella header "FreeLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
